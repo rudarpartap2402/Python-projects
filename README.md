@@ -21,3 +21,8 @@ Hiding password input using getpass
 Checking if files exist using os.path.exists()
 Building a menu driven CLI application
 Passing data between functions using parameters
+
+4.Business Expense Tracker
+
+A beginner Python project that performs CRUD operations using JSON as a local database. Users can create an account, read their stored budget data, update expenses across categories (Rent, Food, Travel, Misc), and all records are stored and managed in a .json file — no external database required.
+Built with pure Python using only built-in libraries (json, os).
